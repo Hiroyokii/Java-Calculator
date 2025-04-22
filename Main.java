@@ -43,7 +43,7 @@ class Main {
             break;
             
         default:
-            System.out.println("You must enter a valid number");     
+            System.out.println("You must enter a valid operator (+, -, *, /)");     
     }
         
       input.close();       
